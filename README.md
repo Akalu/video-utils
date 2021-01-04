@@ -9,7 +9,9 @@ All scripts are written in Python 3.9.1 (https://www.python.org/downloads/releas
 Overview
 =========
 
-1) transcoder.py - a utility for conversion of video shot in portrait mode into landscape one, with auto-cropping and background blurring
+## transcoder
+
+transcoder.py - a utility for conversion of video shot in portrait mode into landscape one, with auto-cropping and background blurring
 
 Quite often video is recorded in portrait mode (especially this is true for mobile devices).
 transcoder allows to convert such video archives into ones convenient for viewing on normal 16:9 monitors.
