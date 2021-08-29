@@ -1,9 +1,9 @@
 About
 ======
 
-This is a collection of different utils written in scripting languages, mostly for stream data processing (videos and image sequencies).
+This is a collection of different utils/scripts written in different languages, mostly for stream data processing (videos and image sequencies).
 
-All scripts are written in Python 3.9.1 (https://www.python.org/downloads/release/python-391/) and in some cases require ffmpeg video utils installed (https://ffmpeg.org/download.html).
+All scripts are written in Python 3.9.1 (https://www.python.org/downloads/release/python-391/) and Bash, and in some cases require ffmpeg video utils installed (https://ffmpeg.org/download.html).
 
  
 Overview
